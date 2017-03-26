@@ -1,0 +1,8 @@
+.hg/
+node_modules/
+tests/
+compare/bower_components/
+scripts/
+.hgignore
+start.bat
+tests.json

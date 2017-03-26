@@ -1,0 +1,18 @@
+{
+  "name": "crt3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "reference": "node ./reference.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "require-json": "0.0.1",
+    "webdrivercss": "^1.1.10",
+    "webdriverio": "2.4.5"
+  }
+}
